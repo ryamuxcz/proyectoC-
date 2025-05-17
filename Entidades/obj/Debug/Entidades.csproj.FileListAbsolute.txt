@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\VentaNCapas\Entidades\bin\Debug\Entidades.dll
+C:\Users\Administrator\source\repos\VentaNCapas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Administrator\source\repos\VentaNCapas\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\VentaNCapas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\VentaNCapas\Entidades\obj\Debug\Entidades.dll
+C:\Users\Administrator\source\repos\VentaNCapas\Entidades\obj\Debug\Entidades.pdb
